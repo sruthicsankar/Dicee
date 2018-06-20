@@ -1,2 +1,2 @@
 # Dicee
-A Game App
+A Game App new ver1
